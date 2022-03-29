@@ -1,0 +1,16 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+Content/Materials/M_tc2kcitk_8K_Albedo_Mat.uasset
+Content/Textures/T_tc2kcitk_8K_BC.uasset
